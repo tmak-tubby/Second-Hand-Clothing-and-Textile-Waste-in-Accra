@@ -1,4 +1,4 @@
-# Raw Data: UN Comtrade Secondhand Textiles Trade Raw Data
+# Raw Data: UN Comtrade & Landfill Fires
 
 This folder contains the raw, unmodified data files downloaded for this research pipeline. 
 
